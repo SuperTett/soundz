@@ -3,7 +3,7 @@ Soundz is the temporary name for a website project. This website will offer a se
 audio files determined to be used in creations such has film, videos, games and any other media in need of
 soundbytes or samples.
 
-##Products
+## Products
 The main products we are thinking of offering would be sound effects (SFX) and music compositions.
 We are currently thinking of offering three tiers of products.
 - Basic and free tracks. These would be the most simple, short, and
